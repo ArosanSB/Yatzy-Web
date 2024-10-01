@@ -1,4 +1,5 @@
 # Lektion 7 - Yatzy
+
 I 3. semester i faget "Distribueret programmering" var formålet med opgaven at få en grundlæggende forståelse for HTML, CSS og JavaScript. 
 Opgaven gik ud på at udvikle en Yatzy-hjemmeside, hvor disse teknologier skulle anvendes til at skabe et spil med korrekt funktionalitet og brugerinteraktion.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
